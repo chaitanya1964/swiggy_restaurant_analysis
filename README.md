@@ -110,45 +110,6 @@ This is a simple analytical metric created for this project, not an official Swi
 
 `SELECT` · `WHERE` · `GROUP BY` · `HAVING` · `ORDER BY` · `LIMIT` · `COUNT()` · `AVG()` · `SUM()` · `ROUND()` · `CAST()` · `REPLACE()` · `CASE` · NULL handling · Data validation · Business analysis
 
-## Repository Structure
-
-```text
-swiggy-restaurant-sql-analysis/
-│
-├── README.md
-├── swiggy_restaurant_analysis.sqlite
-│
-├── sql/
-│   ├── 01_data_validation.sql
-│   ├── 02_data_cleaning.sql
-│   └── 03_business_analysis.sql
-│
-├── results/
-│   ├── data_quality_summary.csv
-│   ├── Q1_top_cities.csv
-│   ├── Q2_top_cuisines.csv
-│   ├── Q3_top_restaurant_chains.csv
-│   ├── Q4_top_rated_cities.csv
-│   ├── Q5_most_expensive_cities.csv
-│   ├── Q6_top_rated_cuisines.csv
-│   ├── Q7_high_rating_high_engagement.csv
-│   ├── Q8_value_for_money_cities.csv
-│   ├── Q9_rating_distribution.csv
-│   ├── Q10_highly_rated_by_city.csv
-│   ├── Q11_most_rated_restaurants.csv
-│   └── Q12_price_vs_rating.csv
-│
-├── screenshots/
-│   ├── restaurants_by_city.png
-│   ├── top_cuisines.png
-│   ├── top_restaurant_chains.png
-│   ├── top_rated_cities.png
-│   ├── most_expensive_cities.png
-│   └── price_vs_rating.png
-│
-└── data/
-    └── README.md
-```
 
 ## How to Reproduce
 
