@@ -1,0 +1,11 @@
+city,avg_cost,restaurants_with_cost
+"Khan Market,Delhi",601.0,107
+"Fort Colaba,Mumbai",493.0,303
+North-goa,469.0,445
+"Jubilee Hills,Hyderabad",451.0,293
+"Bandra West,Mumbai",451.0,796
+"Kalyani Nagar,Pune",447.0,206
+"Koregaon Park,Pune",446.0,170
+"Central Bangalore,Bangalore",444.0,532
+"Vasant Kunj,Delhi",440.0,455
+"Connaught Place,Delhi",434.0,258
